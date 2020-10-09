@@ -1,0 +1,76 @@
+.idcontainer{
+	width: 270px;
+	height: 168px;
+	/*border: 1px solid #000;*/
+	font-family: "calibri", "Arial", "sans-serif";
+	margin-left: 0px;
+	text-align: center;
+ 
+}
+
+.res{
+	width: 250px;
+	height: 65px;
+	font-size: 15px;
+	margin-left: auto;
+	margin-right :auto;
+	margin-top: 0px;
+	border: 1px solid #fff;
+	;
+}
+
+.res1 {
+	width: 250px;
+	height: 65px;
+	font-size: 15px;
+	margin-left: auto;
+	margin-right :auto;
+	margin-top: 5px;
+	margin-bottom: 1px;
+	border: 1px solid #fff;
+}
+
+.details{
+	text-align: center;
+	font-size: 35px;
+	border: 1px solid #fff;
+	line-height: 20px;
+	overflow: hidden;
+	padding-bottom: 1px;
+	
+}
+
+.details1{
+	margin-top: 10px;
+	text-align: center;
+	font-size: 35px;
+	border: 1px solid #fff;
+	line-height: 20px;
+	overflow: hidden;
+	padding-bottom: 3px;
+}
+
+.barcode {
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+}
+
+.code {
+	font-size: 13px;
+	width: 240px;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 1px;
+}
+
+a {
+	background-color: red;
+	align-self: center;
+}
+.company {
+	font-size: 19px;
+
+}
